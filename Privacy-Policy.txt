@@ -1,0 +1,16 @@
+Privacy Policy
+
+WelcomeBot respects your privacy. This policy outlines what data is collected, how it’s used, and your rights.
+
+1. Data Collection
+WelcomeBot stores minimal data required for functionality, such as server IDs, channel IDs, and configuration settings. No personal user data (e.g., messages, usernames, IP addresses) is stored or tracked.
+2. Data Usage
+Stored data is used solely to operate bot features (e.g., welcome messages, diagnostics). Data is not shared with third parties or used for advertising.
+3. Data Retention
+Configuration data is retained as long as the bot is active in your server. If the bot is removed, associated data may be deleted automatically or upon request.
+4. User Rights
+Server owners may request deletion of their server’s data at any time via the support channel. No user-specific data is stored, so individual deletion requests are not applicable.
+5. Security
+All data is stored securely and backed up using atomic write strategies to prevent corruption or loss.
+6. Contact
+For questions or data requests, contact Sean via Discord or the support channel provided in the bot’s help command.
