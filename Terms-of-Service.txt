@@ -1,0 +1,14 @@
+Terms of Service
+
+WelcomeBot is a Discord bot developed and maintained by Sean. By using this bot, you agree to the following terms:
+
+1. Usage
+You may use WelcomeBot in your Discord server as long as you comply with Discord’s Terms of Service and Community Guidelines. You must not use the bot for illegal, abusive, or disruptive purposes.
+2. Ownership
+The bot and its source code are owned by Sean and operated under a registered Discord Developer Team. You may not impersonate the bot, claim ownership, or redistribute modified versions without permission.
+3. Liability
+WelcomeBot is provided “as is.” No guarantees are made regarding uptime, accuracy, or feature availability. Sean is not responsible for any damages, losses, or disruptions caused by the bot’s usage or malfunction.
+4. Changes
+These terms may be updated at any time. Continued use of the bot implies acceptance of the latest version.
+5. Contact
+For questions or concerns, contact Sean via Discord or the support channel provided in the bot’s help command.
